@@ -162,7 +162,7 @@ def csv_maker_s(filedata, path, filename):
 
 
 path = "E:/Bacteria/Bacteria"
-sub_folders = (next(os.walk('E:/Bacteria/Bacteria'))[1])
+sub_folders = (next(os.walk('Bacteria'))[1])
 i = 0
 subtraction_10 = []
 
